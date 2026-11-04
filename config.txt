@@ -1,1 +1,1 @@
-timeout_ms = 5000
+timeout:ms = 10000
